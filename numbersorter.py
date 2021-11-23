@@ -17,7 +17,7 @@ def inputValues():
     if c < d:
         c,d = d,c
     print("\n")
-    print("Arrangement of values in descending order is: " )
+    print("Arrangement of values in \033[1m descending order \033[0m is:" )
     print(a, ">", b, ">", c, ">", d)
     print("\n")
 
