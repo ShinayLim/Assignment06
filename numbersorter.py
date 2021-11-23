@@ -1,7 +1,8 @@
-a = float(input("Enter a: "))
-b = float(input("Enter b: "))
-c = float(input("Enter c: "))
-d = float(input("Enter d: "))
+def inputValues():
+    a = float(input("Enter a: "))
+    b = float(input("Enter b: "))
+    c = float(input("Enter c: "))
+    d = float(input("Enter d: "))
 
 if a < b:
     a,b = b,a
