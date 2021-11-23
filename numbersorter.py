@@ -1,8 +1,8 @@
 def inputValues():
-    a = float(input("Enter a: "))
-    b = float(input("Enter b: "))
-    c = float(input("Enter c: "))
-    d = float(input("Enter d: "))
+    a = float(input("Enter first value: "))
+    b = float(input("Enter second value: "))
+    c = float(input("Enter third value: "))
+    d = float(input("Enter fourth value: "))
     
     if a < b:
         a,b = b,a
@@ -18,5 +18,5 @@ def inputValues():
         c,d = d,c
     
     print (a, ">", b, ">", c, ">", d)
-    
+
 inputValues()
