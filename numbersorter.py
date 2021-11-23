@@ -16,7 +16,7 @@ def inputValues():
         b,d = d,b
     if c < d:
         c,d = d,c
-    
-    print (a, ">", b, ">", c, ">", d)
+    print("Arrangement of values in descending order is" )
+    print(a, ">", b, ">", c, ">", d)
 
 inputValues()
