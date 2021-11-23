@@ -5,16 +5,16 @@ def inputValues():
     d = float(input("Enter d: "))
     
     if a < b:
-    a,b = b,a
+        a,b = b,a
     if a < c:
-    a,c = c,a
+        a,c = c,a
     if a < d:
-    a,d = d,a
+        a,d = d,a
     if b < c:
-    b,c = c,b
+        b,c = c,b
     if b < d:
-    b,d = d,b
+        b,d = d,b
     if c < d:
-    c,d = d,c
+        c,d = d,c
     
-print (a, ">", b, ">", c, ">", d)
+    print (a, ">", b, ">", c, ">", d)
