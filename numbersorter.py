@@ -18,3 +18,5 @@ def inputValues():
         c,d = d,c
     
     print (a, ">", b, ">", c, ">", d)
+    
+inputValues()
