@@ -35,6 +35,7 @@ else:
     print("Sorry, that is not correct")
     
 print("Your current score is " + str(score) + " out of 10")
+print("\n")
 
 #item2
 addend1 = random.randint(0,99)
@@ -49,6 +50,7 @@ else:
     print("Sorry, that is not correct")
     
 print("Your current score is " + str(score) + " out of 10")
+print("\n")
 
 #item3
 addend1 = random.randint(0,99)
@@ -63,6 +65,7 @@ else:
     print("Sorry, that is not correct")
     
 print("Your current score is " + str(score) + " out of 10")
+print("\n")
 
 #item4
 addend1 = random.randint(0,99)
@@ -77,6 +80,7 @@ else:
     print("Sorry, that is not correct")
     
 print("Your current score is " + str(score) + " out of 10")
+print("\n")
 
 #item5
 addend1 = random.randint(0,99)
@@ -91,6 +95,7 @@ else:
     print("Sorry, that is not correct")
     
 print("Your current score is " + str(score) + " out of 10")
+print("\n")
 
 #item6
 addend1 = random.randint(0,99)
@@ -105,6 +110,7 @@ else:
     print("Sorry, that is not correct")
     
 print("Your current score is " + str(score) + " out of 10")
+print("\n")
 
 #item7
 addend1 = random.randint(0,99)
@@ -119,6 +125,7 @@ else:
     print("Sorry, that is not correct")
     
 print("Your current score is " + str(score) + " out of 10")
+print("\n")
 
 #item8
 addend1 = random.randint(0,99)
@@ -133,6 +140,7 @@ else:
     print("Sorry, that is not correct")
     
 print("Your current score is " + str(score) + " out of 10")
+print("\n")
 
 #item9
 addend1 = random.randint(0,99)
@@ -147,6 +155,7 @@ else:
     print("Sorry, that is not correct")
     
 print("Your current score is " + str(score) + " out of 10")
+print("\n")
 
 #item10
 addend1 = random.randint(0,99)
