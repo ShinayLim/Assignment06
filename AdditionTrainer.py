@@ -108,3 +108,17 @@ else:
     print("Sorry, that is not correct")
     
 print("Your current score is " + str(score) + " out of 10")
+
+#item8
+addend1 = random.randint(0,99)
+addend2 = random.randint(0,99)
+print(str(addend1), "+", str(addend2), "= ?")
+answer1 = int(input("Your answer is:"))
+
+if(addend1 + addend2 == answer1):
+    print("Well done! that is correct!")
+    score = score + 1
+else:
+    print("Sorry, that is not correct")
+    
+print("Your current score is " + str(score) + " out of 10")
