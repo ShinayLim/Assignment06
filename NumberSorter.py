@@ -3,7 +3,7 @@ def inputValues():
     b = float(input("Enter second value: "))
     c = float(input("Enter third value: "))
     d = float(input("Enter fourth value: "))
-    
+ 
     if a < b:
         a,b = b,a
     if a < c:
