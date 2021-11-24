@@ -12,7 +12,7 @@ print("\n")
 #item1
 addend1 = random.randint(0,99)
 addend2 = random.randint(0,99)
-print(str(addend1), "+", str(addend2), "= ?")
+print("1. ", str(addend1), "+", str(addend2), "= ?")
 answer1 = int(input("Your answer is:"))
 
 if(addend1 + addend2 == answer1):
