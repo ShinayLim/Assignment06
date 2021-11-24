@@ -1,3 +1,7 @@
+import random
+score = 0
+score = int(score)
+
 name = input("What is your name? ")
 name = name.title()
 print("""Hello {}, welcome to Quiz night! 
