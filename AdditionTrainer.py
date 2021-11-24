@@ -5,6 +5,7 @@ score = int(score)
 
 name = input("What is your name? ")
 name = name.title()
+print("\n")
 print("""Hello {}, You will be presented with 10 questions.
 Enter the appropriate answer to each question. Good luck!""".format(name))
 print("\n")
@@ -147,5 +148,6 @@ if(addend1 + addend2 == answer1):
 else:
     print("Sorry, that is not correct")
 
+print("\n")
 print("Your total score is " + str(score) + " out of 10")
 print("Thank you for playing {}, goodbye!".format(name))
