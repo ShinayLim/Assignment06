@@ -2,13 +2,25 @@ import random
 score = 0
 score = int(score)
 
-
 name = input("What is your name? ")
 name = name.title()
 print("\n")
 print("""Hello {}, You will be presented with 10 questions.
 Enter the appropriate answer to each question. Good luck!""".format(name))
 print("\n")
+
+import sys
+def areYouReady():
+    answer = input("Do you want to start now? ").upper()
+    if answer == "YES":
+        print("\n")
+        print("THE GAME STARTS NOW. ")
+        print("\n")
+    elif answer == "NO":
+        print("Thank you for visiting!")
+        sys.exit()
+    return answer
+areYouReady()
 
 #item1
 addend1 = random.randint(0,99)
