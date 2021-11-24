@@ -26,7 +26,7 @@ areYouReady()
 addend1 = random.randint(0,99)
 addend2 = random.randint(0,99)
 print("1. ", str(addend1), "+", str(addend2), "= ?")
-answer1 = int(input("Your answer is:"))
+answer1 = int(input("Your answer is: "))
 
 if(addend1 + addend2 == answer1):
     print("Well done! that is correct!")
@@ -41,7 +41,7 @@ print("\n")
 addend1 = random.randint(0,99)
 addend2 = random.randint(0,99)
 print("2. ",str(addend1), "+", str(addend2), "= ?")
-answer1 = int(input("Your answer is:"))
+answer1 = int(input("Your answer is: "))
 
 if(addend1 + addend2 == answer1):
     print("Well done! that is correct!")
@@ -56,7 +56,7 @@ print("\n")
 addend1 = random.randint(0,99)
 addend2 = random.randint(0,99)
 print("3. ",str(addend1), "+", str(addend2), "= ?")
-answer1 = int(input("Your answer is:"))
+answer1 = int(input("Your answer is: "))
 
 if(addend1 + addend2 == answer1):
     print("Well done! that is correct!")
@@ -71,7 +71,7 @@ print("\n")
 addend1 = random.randint(0,99)
 addend2 = random.randint(0,99)
 print("4. ",str(addend1), "+", str(addend2), "= ?")
-answer1 = int(input("Your answer is:"))
+answer1 = int(input("Your answer is :"))
 
 if(addend1 + addend2 == answer1):
     print("Well done! that is correct!")
@@ -86,7 +86,7 @@ print("\n")
 addend1 = random.randint(0,99)
 addend2 = random.randint(0,99)
 print("5. ",str(addend1), "+", str(addend2), "= ?")
-answer1 = int(input("Your answer is:"))
+answer1 = int(input("Your answer is :"))
 
 if(addend1 + addend2 == answer1):
     print("Well done! that is correct!")
@@ -101,7 +101,7 @@ print("\n")
 addend1 = random.randint(0,99)
 addend2 = random.randint(0,99)
 print("6. ",str(addend1), "+", str(addend2), "= ?")
-answer1 = int(input("Your answer is:"))
+answer1 = int(input("Your answer is: "))
 
 if(addend1 + addend2 == answer1):
     print("Well done! that is correct!")
@@ -116,7 +116,7 @@ print("\n")
 addend1 = random.randint(0,99)
 addend2 = random.randint(0,99)
 print("7. ",str(addend1), "+", str(addend2), "= ?")
-answer1 = int(input("Your answer is:"))
+answer1 = int(input("Your answer is: "))
 
 if(addend1 + addend2 == answer1):
     print("Well done! that is correct!")
@@ -131,7 +131,7 @@ print("\n")
 addend1 = random.randint(0,99)
 addend2 = random.randint(0,99)
 print("8. ",str(addend1), "+", str(addend2), "= ?")
-answer1 = int(input("Your answer is:"))
+answer1 = int(input("Your answer is: "))
 
 if(addend1 + addend2 == answer1):
     print("Well done! that is correct!")
@@ -146,7 +146,7 @@ print("\n")
 addend1 = random.randint(0,99)
 addend2 = random.randint(0,99)
 print("9. ",str(addend1), "+", str(addend2), "= ?")
-answer1 = int(input("Your answer is:"))
+answer1 = int(input("Your answer is: "))
 
 if(addend1 + addend2 == answer1):
     print("Well done! that is correct!")
@@ -161,7 +161,7 @@ print("\n")
 addend1 = random.randint(0,99)
 addend2 = random.randint(0,99)
 print("10. ",str(addend1), "+", str(addend2), "= ?")
-answer1 = int(input("Your answer is:"))
+answer1 = int(input("Your answer is: "))
 
 if(addend1 + addend2 == answer1):
     print("Well done! that is correct!")
